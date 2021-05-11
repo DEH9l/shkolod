@@ -1,0 +1,97 @@
+.rating .fa-star-o {
+    color: gold;
+}
+.fa-stack-1x{
+    color: gold;
+}
+.fa-stack-2x{
+    color: gold;
+}
+a.red-link{
+display: none;
+}
+.fa-stack-3x{
+    color: gold;
+}
+.fa-stack-4x{
+    color: gold;
+}
+.fa-stack-5x{
+    color: gold;
+}
+.module-title{
+display: none;
+}
+h2{
+    font-size: 20px;
+    text-align: center;
+}
+h3{
+    text-align: center;
+    font-size: 13px;
+}
+span[itemprop="name"]{
+font-variant: all-small-caps;
+}
+.MsoNormal{
+    color: black;
+}
+.red-btn{
+
+}
+.dream-filter>.rdf-form .rdf-header{
+display:none;
+}
+.rating .fa-star {
+    color: gold;
+}
+span.Category_h5{
+    text-decoration: none;
+    color: black;
+}
+.rating .fa-star+.fa-star-o {
+    color: gold;
+}
+.product-grid .catalogCard-extra{
+	z-index:10000;
+}
+footer{
+background-color: #5F5F5F;
+line-height: 40px;
+margin: auto;
+text-align: center;
+padding: 30px 0;
+}
+footer p{
+color: white;
+font-size: 20px;
+}
+#cart>.btn>.shop-bag{
+    color:#90C32B;
+}
+#popup-callback .popup-footer, #popup-callback .popup-center, #popup-callback .popup-heading{
+    color: white !important;
+}
+.btn-callback .ladda-button{
+    border-color: white !important;
+}
+@media screen and (max-width: 800px) {
+    .hop-bag{
+        line-height: 50px !important;
+    }
+}
+.img-responsive{
+     margin:auto
+     }
+.btn.btn-general{
+background: none;
+color: inherit;
+box-shadow: none;
+}
+
+
+@media (min-width: 1360px){
+.container{
+width: 1330px;
+}
+}
